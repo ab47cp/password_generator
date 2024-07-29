@@ -18,17 +18,17 @@ This project only requires `tkinter`, which is included with Python.
 
  *Clone the repository*:
    
-   git clone https://github.com/ab47cp/password_generator.git
-   cd password_generator
+   - git clone https://github.com/ab47cp/password_generator.git
+   - cd password_generator
    
 # Usage
 
 1. *Run the application*:
 
-   python PasswordGenerator.py
+   - python PasswordGenerator.py
 
    If want to use command-line version (java)
-         java PasswordGenerator.class
+      - java PasswordGenerator.class
 
 3. *Use the GUI*:
    - Enter the total number of random passwords you want.
